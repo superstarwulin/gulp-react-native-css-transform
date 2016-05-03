@@ -1,6 +1,6 @@
 
 /**
- * date: 2016-05-03 11:54:56
+ * date: 2016-05-03 12:08:49
  * create by react-native-css-transform
  * see: https://github.com/AngusFu/gulp-react-native-css-transform
  */
@@ -15,7 +15,8 @@ const styles = StyleSheet.create({
         "marginLeft": 1,
         "paddingTop": 20,
         "paddingHorizontal": 1,
-        "paddingBottom": 20
+        "paddingBottom": 20,
+        "border": 1
     }
 });
 
