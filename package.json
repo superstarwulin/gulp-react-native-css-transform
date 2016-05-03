@@ -25,6 +25,7 @@
   "dependencies": {
     "gulp-util": "^3.0.7",
     "lodash": "^4.11.2",
+    "rn-css-transform": "^1.0.0",
     "through2": "^2.0.1"
   }
 }

@@ -6,7 +6,7 @@ var _ = require('lodash');
 var dateYMD = require('./dateYMD');
 var PLUGIN_NAME = require('./pluginname');
 
-var cssToJs = require('./cssToJs');
+var cssToJs = require('rn-css-transform');
 
 function getStyle(css) {
     return (`
