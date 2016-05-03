@@ -1,0 +1,30 @@
+{
+  "name": "gulp-react-native-css-transform",
+  "version": "1.0.0",
+  "description": "gulp-react-native-css-transform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AngusFu/gulp-react-native-css-transform.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "css",
+    "gulpplugin"
+  ],
+  "author": "angusfu1126@qq.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AngusFu/gulp-react-native-css-transform/issues"
+  },
+  "homepage": "https://github.com/AngusFu/gulp-react-native-css-transform#readme",
+  "dependencies": {
+    "gulp-util": "^3.0.7",
+    "lodash": "^4.11.2",
+    "through2": "^2.0.1"
+  }
+}
