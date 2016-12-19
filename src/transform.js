@@ -13,14 +13,14 @@ function getStyle(css) {
 /**
  * date: ${dateYMD(new Date())}
  * create by react-native-css-transform
- * see: https://github.com/AngusFu/${PLUGIN_NAME}
+ * see: zhuzhuxia
  */
 
 import { StyleSheet } from 'react-native';
 
 const styles = StyleSheet.create(${JSON.stringify(css, null, 4)});
 
-export default styles;
+module.exports = styles;
 `
     );
 };
